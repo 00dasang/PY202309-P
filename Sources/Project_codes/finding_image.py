@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import os
 from PIL import Image, ImageTk
 from tkinter import Tk, Label, Entry, Button, StringVar, filedialog
@@ -57,3 +58,6 @@ root.protocol("WM_DELETE_WINDOW", on_closing)
 
 # Start the Tkinter's main loop
 root.mainloop()
+=======
+#finding the image
+>>>>>>> 33927a444350dc5f48a6133617b73944b9035b93
