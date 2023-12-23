@@ -1,0 +1,116 @@
+The function of the road
+
+Road functions can be divided into transportation functions and spatial functions, urban disaster prevention functions, and urban structure formation functions.
+
+
+First, Transportation function
+
+Road's Transportation function can be divided Mobility and Accessibility.
+
+ - Mobility : The services of vehicles, bicycles, pedestrians etc,,
+              Mobility 
+
+ - Accessibility : Access to land, buildings and facilities around the road
+
+
+Mobility has the effect of easing traffic congestion, shortening traffic travel distances and times, improving traffic speed, improving traffic safety, reducing traffic pollution, and reducing transportation costs.
+
+Accessibility has the effect of improving the efficiency of land use, expanding the foundation for regional development, and improving the road environment.
+
+
+
+Second, Spatial function
+
+The spatial function means providing public, public facilities, and a comfortable residential environment. It includes electricity, telecommunications, gas, water supply and sewage, subway, and so on.
+
+
+
+Third, Urban disaster prevention function
+
+Urban disaster prevention functions to strengthen disaster prevention functions, provide evacuation spaces, and provide space to suppress the spread of fire. It has the effect of securing the speed of emergency rescue, securing the speed of fire suppression, and improving the safety of society.
+
+
+
+Fourth, Urban structure formation function
+
+The function of forming an urban structure has the function of forming the economic and social foundation of the whole country and forming the framework of the urban structure. It improves the level of social services such as culture, education, and medical activities and supports daily life such as commuting to and from school. And it shows the effect of creating a good residential environment.
+
+
+
+
+
+Road Design Process and Considerations
+
+- Road Planning and design process
+
+Roads take a lot of time (5-10 years) to be used through the planning stage. If a trial and error is made during the implementation of the road project, the promotion of the road project will be disrupted, and if the opening is delayed due to delays in the project, additional social costs will be borne, causing national economic losses. In order to efficiently promote the road project and prevent trial and error, it is a standard process to go through three stages of feasibility study, basic design, and implementation design individually, and to promote road construction through verification and consultation processes at each stage, but if the extension of the plan is the same and the section subject to the task is not long, the tasks for each of these stages may be integrated and carried out. When a road manager performs a plan and task under a service contract, the following methods are used depending on the size of the route.
+
+ 1. How to conduct feasibility study and basic design at the same time and conduct implementation design separately
+
+ 2. A method of conducting a feasibility study separately and combining the basic design and the implementation design at the same time
+
+3. How to place an order by integrating the three stages of feasibility study, basic design, and implementation design
+
+Considering that no matter what type of order is followed, all the processes presented on the road plan flowchart must be followed and cannot be omitted, it is necessary to pay close attention to the design period and how to perform the task. In some cases, such as road improvement projects or simple expansion works, the feasibility study can be omitted and the implementation design can be implemented immediately, but it should be implemented as shown in the flowchart of road design, including the process of the basic design process.
+
+
+
+
+
+
+Relationship between road function (traffic function) and road and traffic characteristics
+
+In the road plan, high-mobility highways are not allowed to enter and exit the main line except for interchange, and lower-function roads are not connected, thereby securing fast movement and smooth traffic flow by restricting access functions. On the other hand, local roads such as fire fighting roads in the city directly connect all alleys to enable connection between houses, thereby improving accessibility. In addition, it is important to align the hierarchy of roads so that the function of the road can be performed smoothly when planning the road. In other words, it is necessary to determine how much mobility and accessibility the road you want to plan should secure when building the road network. If the function and hierarchy of the road are not structured smoothly, the efficiency of the road decreases, so determining the function and hierarchy of the road is one of the most prerequisites for road planning.
+
+Traffic functions (mobility, accessibility) are particularly important in the planning and design of roads, and the road network around the planned road should be reviewed to first distinguish whether the function of the road to be performed by the planned road is a road that places importance on mobility or accessibility within the adjacent influence area. If the hierarchy of roads is not considered or a new road that does not take into account traffic functions is newly established, the efficiency of the road will be reduced, resulting in traffic conflicts and friction, and unnecessary traffic problems in performing the functions of the planned road.
+
+
+
+
+
+
+Classification of roads
+
+
+Roads can be classified into the operating system, function, topography, region, traffic volume, jurisdiction, geometric structure, etc. The reason for this is to form a similar perception and consensus between road traffic engineers, road traffic officials, road traffic experts, and the people who use the road. When classifying roads based on traffic, the traffic volume itself is not fixed and changes from time to time, so proper classification cannot be made. When classifying roads based on jurisdiction, administrative benefits can be provided, but the services and characteristics expected by users may be lacking. When classifying roads based on geometric structures, it is possible to present validity for design purposes to engineers, but similar to classification by jurisdiction, it has a disadvantage that it does not fully reflect the characteristics provided by roads. Subsequently, the classification of roads is usually limited to classification under the Road Act, classification under the rules on the structure of roads, facility standards, classification based on urban planning facilities, and classification based on pavement materials.
+
+
+(1) Classification by road law
+
+- According to Article 11 (Type and Grade of Roads) of the Road Act of Korea, roads across the country are classified into seven categories according to the location and function of the road management entity.
+
+1) a high-speed national highway
+Commonly referred to as a highway, it is a toll road designated by the Presidential Decree as a motorway connecting important cities that are part of the automobile transportation network and is currently managed by the Korea Expressway Corporation.
+
+2) a general national highway
+It is a road that connects important cities, designated ports, important airfields, or tourist destinations and forms a national infrastructure network along with highways, and is currently managed by the Ministry of Land, Infrastructure and Transport.
+
+3) a special road
+Roads within the districts of Seoul Metropolitan Government, Busan Metropolitan City, Incheon Metropolitan City, Daegu Metropolitan City, Gwangju Metropolitan City, Ulsan Metropolitan City, and Daejeon Metropolitan City are the roads recognized by the Mayor of Seoul Metropolitan Government or Busan, Incheon, Daegu, Gwangju, Ulsan, and Daejeon Metropolitan City, and are currently managed by the relevant special city or metropolitan city.
+
+4) a local road
+Roads falling under any of the following subparagraphs, which form a local arterial road network, are recognized by the governor of Gangwon-do, Gyeonggi-do, Chungcheongnam-do, Chungcheongbuk-do, Gyeongsangnam-do, Jeolla-do, and Jeju-do, and are currently managed by each province.
+ - a road from the provincial office to the city or county office
+ - a road connecting the city or county offices to one another
+ - Roads connecting airfields, ports, stations, or highways, national highways or local roads closely related thereto
+ - Roads other than the preceding subparagraphs that are particularly important for local development.
+
+5) city road
+It is a road in the city and is managed by each city as a road recognized by the mayor.
+
+6) country road
+It is a road within the county and is managed by each county as a road recognized by the head of the competent county.
+
+7) district road
+This means that the head of the Gu recognizes the route as a road connecting the Dong and Dong in the Guan except for the Special City or the Metropolitan City.
+
+
+
+
+
+
+(2) Classification of road structure and facility standards according to the rules
+
+- The "Commentary and Guidelines on Road Structure and Facility Standards" present the classification of roads in the design standards. Matters to be considered when classifying the design standards may include the function of the road expected by road users, the function of the road provided by the road, the characteristics and topographic conditions of the area through which the road passes (located), and the planned traffic volume, and through these, sections to which the same design standards should be applied are classified in terms of the structure of the road and facility standards and should be systematically classified. In the classification of roads, this Rule shall be divided into highways and general roads, but in the case of highways, highways are classified into highways and urban highways according to their location, and in the case of general highways, main highways, auxiliary highways, collective roads, and local highways according to their functions. In addition to traffic characteristics and mileage, roads are inevitably classified according to regions due to construction costs and flexibility in design, and because they are based on land use, they are divided into urban and local parts according to the area in which the road is located. Fundamental differences between urban and local departments appear in the form and density of land use, average traffic distance, road network and density, and average driving speed. In general, an urban part means an area that is currently forming an urban area or an area that is likely to form an urban area in 20 years around the road, which is the design goal of the road, based on the development trend of the area. Local parts refer to areas other than urban parts. Population and size are the most commonly used indicators when trying to distinguish between urban and local parts, and the urban part is an area where more than 5,000 people live, and the local part is an area outside the boundary line of the urban part.
+
+
