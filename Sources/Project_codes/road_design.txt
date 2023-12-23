@@ -79,29 +79,29 @@ Roads can be classified into the operating system, function, topography, region,
 
 - According to Article 11 (Type and Grade of Roads) of the Road Act of Korea, roads across the country are classified into seven categories according to the location and function of the road management entity.
 
-1) a high-speed national highway
+1-1) a high-speed national highway
 Commonly referred to as a highway, it is a toll road designated by the Presidential Decree as a motorway connecting important cities that are part of the automobile transportation network and is currently managed by the Korea Expressway Corporation.
 
-2) a general national highway
+1-2) a general national highway
 It is a road that connects important cities, designated ports, important airfields, or tourist destinations and forms a national infrastructure network along with highways, and is currently managed by the Ministry of Land, Infrastructure and Transport.
 
-3) a special road
+1-3) a special road
 Roads within the districts of Seoul Metropolitan Government, Busan Metropolitan City, Incheon Metropolitan City, Daegu Metropolitan City, Gwangju Metropolitan City, Ulsan Metropolitan City, and Daejeon Metropolitan City are the roads recognized by the Mayor of Seoul Metropolitan Government or Busan, Incheon, Daegu, Gwangju, Ulsan, and Daejeon Metropolitan City, and are currently managed by the relevant special city or metropolitan city.
 
-4) a local road
+1-4) a local road
 Roads falling under any of the following subparagraphs, which form a local arterial road network, are recognized by the governor of Gangwon-do, Gyeonggi-do, Chungcheongnam-do, Chungcheongbuk-do, Gyeongsangnam-do, Jeolla-do, and Jeju-do, and are currently managed by each province.
  - a road from the provincial office to the city or county office
  - a road connecting the city or county offices to one another
  - Roads connecting airfields, ports, stations, or highways, national highways or local roads closely related thereto
  - Roads other than the preceding subparagraphs that are particularly important for local development.
 
-5) city road
+1-5) city road
 It is a road in the city and is managed by each city as a road recognized by the mayor.
 
-6) country road
+1-6) country road
 It is a road within the county and is managed by each county as a road recognized by the head of the competent county.
 
-7) district road
+1-7) district road
 This means that the head of the Gu recognizes the route as a road connecting the Dong and Dong in the Guan except for the Special City or the Metropolitan City.
 
 
@@ -114,3 +114,125 @@ This means that the head of the Gu recognizes the route as a road connecting the
 - The "Commentary and Guidelines on Road Structure and Facility Standards" present the classification of roads in the design standards. Matters to be considered when classifying the design standards may include the function of the road expected by road users, the function of the road provided by the road, the characteristics and topographic conditions of the area through which the road passes (located), and the planned traffic volume, and through these, sections to which the same design standards should be applied are classified in terms of the structure of the road and facility standards and should be systematically classified. In the classification of roads, this Rule shall be divided into highways and general roads, but in the case of highways, highways are classified into highways and urban highways according to their location, and in the case of general highways, main highways, auxiliary highways, collective roads, and local highways according to their functions. In addition to traffic characteristics and mileage, roads are inevitably classified according to regions due to construction costs and flexibility in design, and because they are based on land use, they are divided into urban and local parts according to the area in which the road is located. Fundamental differences between urban and local departments appear in the form and density of land use, average traffic distance, road network and density, and average driving speed. In general, an urban part means an area that is currently forming an urban area or an area that is likely to form an urban area in 20 years around the road, which is the design goal of the road, based on the development trend of the area. Local parts refer to areas other than urban parts. Population and size are the most commonly used indicators when trying to distinguish between urban and local parts, and the urban part is an area where more than 5,000 people live, and the local part is an area outside the boundary line of the urban part.
 
 
+
+2-1) Classification of Local Roads
+In Korea, roads are divided into urban departments and local departments, of which local departments shall apply mutatis mutandis to the "rules and guidelines on the structure and facility standards of roads." The term "local department" refers to an area other than the urban department, and is based on the connection of the characteristics of each function of the road within the local department with the classification by jurisdiction, the geometric structure characteristics of the road, and the characteristics of traffic flow.
+
+2-1-1) Highway
+It is an automobile-only road existing in the local government, and the design standard is the highest with access restrictions to efficiently and safely move a large amount of traffic within the fastest time. In general, highways should be more than four lanes in principle, and exceptions are expected to have a small increase in traffic, or if it is unavoidable to raise costs, the initial construction of the four lanes can be allowed after the initial construction of the second lane.
+
+2-1-2) The interstate road
+It is a road that forms the main framework of the national road network and connects major cities between regions, mainly connecting cities with a population of 50,000 or more. It also refers to a road with a relatively high traffic density and a relatively long traffic length as a road that forms the framework of interregional movement. It is a road that mainly focuses on traffic passing between regions and ultimately requires more than four lanes of road, and most of the general national highways in Article 13 of the Road Act fall under this category.
+
+2-1-3) The auxiliary highway
+It is a road connected to the main highway that forms the framework of the local road network and complements the main highway, which has a weaker wide-area trunk line function and a relatively shorter traffic distance than the main highway. This is also a road that connects major points between counties, and most of the general national highways under Article 13 of the Road Act and the local highways under Article 15 of the Road Act fall under this category.
+
+2-1-4) The collective road
+The collection road is a road in charge of traffic in the area and corresponds to a road that does not have a wide-area function. It also refers to a road that complements roads with wide-area functions between the counties and connects major points within the county. This is a road that absorbs traffic generated by residential units within the county and has the function of linking it to main roads or distributing traffic flowing from auxiliary main roads by residential units, and most of the local roads under Article 15 of the Road Act and the archipelago under Article 17 fall under this category.
+
+2-1-5) The local road
+Part of the archipelago and other roads, such as rural roads, under Article 16 of the Road Act, are the roads provided to access residential units in the county, and refer to the roads with the shortest traffic distance and the lowest function in function. Local roads are divided into auxiliary highways and collective roads because the overall length of the route is shorter than that of the national road, and the wide-area trunk road function is weak due to the somewhat high accessibility function. Among local roads, which routes are divided into auxiliary trunk roads and which routes are divided into collective roads are relative concepts. Roads with high mobility and low accessibility are classified as auxiliary trunk roads, and local roads with relatively low mobility and high accessibility are classified as collective roads. Similarly, in the case of islands, they are classified into collective roads and local roads according to the degree of mobility and accessibility.
+
+
+
+
+2-2) Classification of general national highways
+General national highways refer to routes that complement highways and become the framework of the nationwide road network, and in terms of important roads, the central government is important in planning, designing, and maintaining the roads. These roads are mainly roads that connect major points of local governments, and are classified as interstate roads because their main function is to move passengers and cargo between regions faster than accessibility of residents in the region. Among general national highways, traffic is relatively small and is limited to two lanes, and if such national highways are linked to national highways, their functions may be lowered to be classified as auxiliary interstate highways. General national highways, along with high-speed national highways, function as arterial highways that handle large-capacity long-distance traffic demands between major cities and regions. In the local road network, general national highways are classified as interstate or auxiliary interstate roads by reflecting the social and economic characteristics of the starting point, ending point, and major transit points, and appropriate design standards are established in related regulations. However, it may cause confusion in determining the level of road design because it is difficult for road designers to clearly determine the function of the route or section as a main line or an auxiliary line in the case of the expansion of general national roads or the establishment of new routes. In other words, in order to efficiently execute a limited road maintenance budget and create maximum efficiency, a road design suitable for the function to be performed by the section is necessary, but if it is difficult to clearly determine the function classification, there is a concern of under- or over-design. To solve this problem, the national road network system was reviewed and the performance functions of each section of the national road were divided into national road 1, national road 2, and national road 3. Here, national road 1 and national road 2 correspond to the existing main road and are classified through differences in detailed design standards, and national road 3 corresponds to the auxiliary road, and the criteria for judging them are as follows.
+
+
+2-2-1) National Highway 1
+The 7x9 long-term trunk network is supplemented to form the national trunk axis, and it is a national road that is mainly responsible for long-distance traffic, which means a road that requires a very good level of facilities due to high traffic demand.
+
+2-2-2) National Highway 2
+Although the long-distance traffic rate is lower than that of National Road 1, it connects major cities and connects national parks and industrial complexes and links transportation between other transportation facilities such as ports, logistics complexes, and airports.
+
+2-2-3) National Highway 3
+It connects and supplements National Road 1 and National Road 2, has a low ratio of traffic passing and is mainly responsible for traffic in the region, and is in charge of traffic in the same direction adjacent to the existing, construction, and planned highway routes, but it is expected that the demand for transportation will not increase significantly in the future.
+
+
+General national highways require design speed and related facility standards to apply consistent design standards consistent with their functions.
+
+
+
+
+
+
+(3) Classification by Urban Planning Facility Standards
+
+
+
+3-1) Classification of Roads by Function according to the Rules on the Standards for Urban Planning Facilities
+
+Article 8 of Transportation Facilities (Type of Road) of Chapter 2 of the Rules on Urban Planning Facilities shall be classified by road use, type and size according to the width of the road, and function of the road as follows.
+
+3-1-1) Classification by road use and type
+- a general road
+- a motorway
+- a bicycle lane
+- a pedestrian road
+- a highway
+- an overpass
+- an underground road
+
+3-1-2) Classification by Size by Road Width
+- 광로
+ - 대로
+ - 중로
+ - 소로
+
+3-1-3) Classification of roads by function
+- a motorway
+- an urban highway
+- the interstate road
+- an auxiliary highway
+- a collective road
+- a local road
+- a compartmentalized road
+- a special road
+
+
+
+3-2) Classification of Urban Roads
+
+In Korea, roads are divided into urban and local departments, of which the rules on the standards for urban planning facilities shall apply mutatis mutandis. The urban department refers to an area that is currently forming an urban area or an area that is likely to be formed as an urban area in the planned target year based on the trend of regional development, and the criteria for classifying urban planned roads by function, the geometric structure of roads, and the characteristics of traffic flow are presented in the table, and the general facility standards are shown in the additional table.
+
+3-2-1) Urban highway
+Urban highways are responsible for maintaining and promoting the function of large cities by connecting urban centers with non-domestic and mass traffic-inducing facilities by reinforcing the city's flat street network to handle long-distance traffic and more traffic in a short period of time. Urban highways refer to automobile-only roads existing in urban areas and are built with four or more lanes by applying high design standards to quickly transport large amounts of traffic while having the function of restricting access. The design speed of roads with a design speed of 80 to 100 kilometers/hr is about 3 to 6 kilometers.
+
+3-2-2) The interstate road
+As the main road that forms the main framework of the urban road network, it absorbs a large amount of traffic and relatively long traffic by linking major cultural, social, economic, distribution, and business facility points in the city and is responsible for wide-area transportation within the city. It is also a road that maintains the continuity of arterial roads in urban areas and local states by playing a role in passing arterial roads between regions in the city. The design speed of the main highway is about 60-80 km/hr, the average driving distance is usually more than 3 km, and the layout interval is about 1.5 to 3 km.
+
+3-2-3) The auxiliary highway
+The auxiliary interstate road is a road that connects the main and interstate lines in the city, between the interstate lines, or between the main sections, usually forming the boundary of the main district and connecting major traffic-inducing facilities in the city, and the design speed is 50 to 60km/hr, and the average driving distance is about 1 to 3km. Among the roads connected to other provinces around the metropolitan area, roads other than the interstate road and roads connected to other provinces in town-level cities with a planned population of less than 20,000. It is a road that has shorter traffic volume and length than the interstate road, and performs a regional function of traffic, absorbing traffic entering and exiting through the collection road within the district, and performing a function of linking with the main road and showing relatively higher mobility to the road. For reference, the main district (Geunrinju-gu) is a daily life area of movement or a walking life area in which one elementary school can enter, and when the population density is 100,000, it means the size of about 1km in all directions.
+
+3-2-4) The collective road
+The collection road is a road between the interstate line and the auxiliary line or between the auxiliary line and serves as the collection function of urban traffic, with a design speed of 40 to 50 km/hr and a driving distance of 0.5 to 1 km. It is also a road that is mainly responsible for traffic in the district and connects to residential areas in the district compared to the auxiliary main road, and is in charge of collecting or distributing traffic entering and exiting through local roads in the district, and it is relatively more accessible than the main road.
+
+3-2-5) The local road
+As a road that directly accesses the residential unit in the main district, it is the road with the highest accessibility and the lowest mobility, and is designed and operated in a direction that excludes transit traffic. In addition, it is a road that gives priority to pedestrian passage without bus passage. The design speed is about 30-40 km/hr and the average mileage is less than 0.5 km.
+
+
+
+
+(4) Classification by Surface Materials
+
+4-1 Earthen Road
+A road made of natural soil or a road that is improved by creating the particle size of soil and is used in a state of no pavement.
+
+4-2 Gravel Road
+It is a road that uses gravel as a surface layer on natural soil, and there are many roads, local roads, and archipelagos used with gravel laid on top of soil to prevent dust or reinforce support.
+
+4-3 Broken Stone Road or Macadam Road
+In order to prevent the generation of dust and reinforce the support, crushed stones are installed on the soil furnace body, and the road is mined using equipment.
+
+4-4 Bituminous Pavement Road
+Roads with asphalt in pavement materials.
+
+4-5 Cement Concrete Pavement Road
+Roads using cement concrete for pavement materials.
+
+4-6 Asphalt Concrete Pavement Road
+Roads using asphalt concrete for pavement materials.
+
+4-7 Block Pavement Road
+Road paved with stone or cement blocks.
