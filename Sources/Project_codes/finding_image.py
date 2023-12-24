@@ -11,7 +11,9 @@ images_folder = ""
 canvas = None  # canvas를 전역 변수로 초기화
 
 def show_images_with_keyword(keyword):
+    
     global matching_images, images_folder, canvas, scrollable_frame
+  
 
     matching_images = [f for f in os.listdir(images_folder) if keyword.lower() in f.lower() and f.lower().endswith(('.png', '.jpg', '.jpeg', '.gif'))]
     
@@ -68,7 +70,7 @@ def main():
     keyword_entry = Entry(root, textvariable=keyword_var, width=30)
     keyword_entry.pack(pady=10)
 
-    show_button = Button(root, text="Show Images", command=get_keyword_and_show_images)
+    show_button = Button(root, text="Show Images", command=get_keyword_and_show_images(root))
     show_button.pack(pady=10)
 
     root.protocol("WM_DELETE_WINDOW", on_closing)
