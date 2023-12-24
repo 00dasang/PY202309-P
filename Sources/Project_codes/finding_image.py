@@ -2,6 +2,9 @@ import os
 from PIL import Image, ImageTk
 from tkinter import Tk, Label, Entry, Button, StringVar, filedialog, Canvas, Frame, Scrollbar
 
+# 전역 변수로 root를 선언합니다.
+root = None
+
 image_list = []  
 matching_images = []  
 images_folder = ""
@@ -33,10 +36,10 @@ def on_closing():
         img_tk.__del__()
     root.destroy()
 
-def get_keyword_and_show_images():
+def get_keyword_and_show_images(root):
     global matching_images, images_folder, canvas
 
-    keyword = keyword_var.get()
+    keyword = input("이미지 검색 키워드를 입력하세요: ")
     images_folder = "C:/Users/00das/Desktop/커밋프로젝트/PY202309-P/Sources/Project_codes/Road_Design_references"
 
     # Canvas 초기화
@@ -52,15 +55,24 @@ def get_keyword_and_show_images():
 
     show_images_with_keyword(keyword)
 
-root = Tk()
-root.title("Image Viewer with Keyword")
+def get_root():
+    global root
+    return root
 
-keyword_var = StringVar()
-keyword_entry = Entry(root, textvariable=keyword_var, width=30)
-keyword_entry.pack(pady=10)
+def main():
+    global root
+    root = Tk()
+    root.title("Image Viewer with Keyword")
 
-show_button = Button(root, text="Show Images", command=get_keyword_and_show_images)
-show_button.pack(pady=10)
+    keyword_var = StringVar()
+    keyword_entry = Entry(root, textvariable=keyword_var, width=30)
+    keyword_entry.pack(pady=10)
 
-root.protocol("WM_DELETE_WINDOW", on_closing)
-root.mainloop()
+    show_button = Button(root, text="Show Images", command=get_keyword_and_show_images)
+    show_button.pack(pady=10)
+
+    root.protocol("WM_DELETE_WINDOW", on_closing)
+    root.mainloop()
+
+if __name__ == "__main__":
+    main()
